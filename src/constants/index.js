@@ -1,0 +1,3 @@
+/*RATES*/
+export default {};
+
