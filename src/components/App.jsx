@@ -63,7 +63,7 @@ const App = observer(() => {
 
 const Container = styled.div`
   height: 100%;
-  max-width: 1260px;
+  max-width: 1440px;
   margin: 0 auto;
   padding:  50px;
   text-align: center;  
